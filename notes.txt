@@ -1,0 +1,17 @@
+# 1. Check installed Python packages
+pip list
+
+# 2. Create a new virtual environment
+python3 -m venv envname
+
+# 3. Activate the virtual environment
+source envname/bin/activate
+
+# 4. Install Django framework
+pip install django
+
+# 5. Create a new Django project (inside current folder)
+django-admin startproject projectname .
+
+# 6. Run the Django development server
+python3 manage.py runserver
