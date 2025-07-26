@@ -33,7 +33,7 @@ It helps users organize their clothing, plan daily outfits, and get smart sugges
 
 ```bash
 # 1. Clone the repository (once pushed)
-git clone https://github.com/<your-username>/drobemate.git
+git clone https://github.com/Gokul-Peace/DrobeMate.git
 cd drobemate
 
 # 2. Create virtual environment
